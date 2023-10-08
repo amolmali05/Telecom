@@ -1,5 +1,5 @@
 package com.telecom.restcontroller;
 
-public class NfProfileController {
+public class UserDeatailsController {
 
 }

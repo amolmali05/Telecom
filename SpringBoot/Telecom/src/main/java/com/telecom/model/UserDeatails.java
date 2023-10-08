@@ -1,5 +1,5 @@
 package com.telecom.model;
 
-public class NfService {
+public class UserDeatails {
 
 }
